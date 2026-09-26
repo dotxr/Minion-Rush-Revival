@@ -33,7 +33,7 @@ Macs with Apple Silicon can play through [PlayCover](https://playcover.io), but 
 ## Good to know
 
 - Connect to the internet the first time you open the game so it can download its data.
-- Store purchases are free. Restart the game after buying to see your items.
+- Real-money packs are free. Tap the price button on any of them, then restart the game and the item is yours, just as if you had paid.
 - Game Center and Google Play sign-in don't work, so your save is tied to your device.
 
 ## Disclaimer
