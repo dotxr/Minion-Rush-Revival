@@ -1,4 +1,5 @@
 # Minion Rush Revival
+### This project plans on supporting every major Minion Rush version!
 
 Minion Rush is shutting down. This version runs on our own server, so you can keep playing.
 
