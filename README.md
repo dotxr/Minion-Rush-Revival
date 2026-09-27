@@ -45,7 +45,7 @@ More versions are on the way. Each version installs as its own app, so you can h
 
 ## Android
 
-1. Download the APK for the version you want (see the table above) on your phone.
+1. On your phone, open [the website](https://dotxr.github.io/minion-rush-revival/) and tap **Android APK** on the version you want. Keep the page open until the download finishes.
 2. Open it, allow installing from that app when asked, then tap **Install**.
 
 If it says the app conflicts with one you already have, uninstall the old one first.
@@ -53,7 +53,7 @@ If it says the app conflicts with one you already have, uninstall the old one fi
 ## iPhone / iPad
 
 1. Install [Sideloadly](https://sideloadly.io) on your computer.
-2. Plug in your phone and drag the IPA for the version you want into Sideloadly. Sign in with your Apple ID and press **Start**.
+2. On your computer, download the IPA for the version you want from [the website](https://dotxr.github.io/minion-rush-revival/). Plug in your phone and drag the IPA into Sideloadly. Sign in with your Apple ID and press **Start**.
 3. On your phone, go to **Settings > General > VPN & Device Management** and trust your Apple ID.
 4. On iOS 16 or newer, turn on **Settings > Privacy & Security > Developer Mode**.
 
