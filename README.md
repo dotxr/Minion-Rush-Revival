@@ -23,6 +23,14 @@ More versions are on the way. Each version installs as its own app, so you can h
   <img src="Screenshots/screenshot3.png" width="32%" alt="Fresh profile">
 </p>
 
+### 9.7.1b
+
+<p align="center">
+  <img src="Screenshots/legacy-9.7.1b-menu.png" width="32%" alt="9.7.1b main menu">
+  <img src="Screenshots/legacy-9.7.1b-run.png" width="32%" alt="9.7.1b run">
+</p>
+<p align="center"><sub>Running on an Android emulator.</sub></p>
+
 ### 9.6.1b
 
 <p align="center">
