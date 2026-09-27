@@ -10,8 +10,8 @@ Join our Discord for help, updates and bug reports: https://discord.gg/8bqYUns56
 | Version | What it is | Android | iPhone / iPad |
 |---|---|---|---|
 | **13.3.0** | The final Unity version (July 27th 2026 build) | [APK](https://github.com/dotxr/Minion-Rush-Revival/releases/download/13.3.0/MinionRushRevived-13.3.0.apk) | [IPA](https://github.com/dotxr/Minion-Rush-Revival/releases/download/13.3.0/MinionRushRevived-13.3.0.ipa) |
-| **9.7.1b** | The original game, from before the Unity remake | [APK](https://github.com/dotxr/Minion-Rush-Revival/releases/download/9.7.1b/MinionRushRevived-9.7.1b.apk) | |
-| **9.6.1b** | The original game, from before the Unity remake | | [IPA](https://github.com/dotxr/Minion-Rush-Revival/releases/download/9.6.1b/MinionRushRevived-9.6.1b.ipa) |
+| **9.7.1b** | Christmas 2023, pre-unity | [APK](https://github.com/dotxr/Minion-Rush-Revival/releases/download/9.7.1b/MinionRushRevived-9.7.1b.apk) | |
+| **9.6.1b** | May 2023, pre-unity | | [IPA](https://github.com/dotxr/Minion-Rush-Revival/releases/download/9.6.1b/MinionRushRevived-9.6.1b.ipa) |
 
 More versions are on the way. Each version installs as its own app, so you can have several at once.
 
