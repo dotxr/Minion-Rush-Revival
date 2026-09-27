@@ -4,6 +4,7 @@
 Minion Rush is shutting down. These builds run on our own server, so you can keep playing. Every version uses the same server but keeps its own progress and leaderboards, so each one plays like its own game.
 
 Join our Discord for help, updates and bug reports: https://discord.gg/8bqYUns56b
+Our website: https://dotxr.github.io/minion-rush-revival/
 
 ## Versions
 
