@@ -8,11 +8,15 @@ Our website: https://dotxr.github.io/minion-rush-revival/
 
 ## Versions
 
+Download every build from the website: **https://dotxr.github.io/minion-rush-revival/**
+
 | Version | What it is | Android | iPhone / iPad |
 |---|---|---|---|
-| **13.3.0** | The final Unity version (July 27th 2026 build) | [APK](https://github.com/dotxr/Minion-Rush-Revival/releases/download/13.3.0/MinionRushRevived-13.3.0.apk) | [IPA](https://github.com/dotxr/Minion-Rush-Revival/releases/download/13.3.0/MinionRushRevived-13.3.0.ipa) |
-| **9.7.1b** | Christmas 2023, pre-unity | [APK](https://github.com/dotxr/Minion-Rush-Revival/releases/download/9.7.1b/MinionRushRevived-9.7.1b.apk) | |
-| **9.6.1b** | May 2023, pre-unity | | [IPA](https://github.com/dotxr/Minion-Rush-Revival/releases/download/9.6.1b/MinionRushRevived-9.6.1b.ipa) |
+| **13.3.0** | The final Unity version (July 27th 2026 build) | APK | IPA |
+| **9.7.1b** | Christmas 2023, pre-unity | APK | |
+| **9.6.1b** | May 2023, pre-unity | APK | IPA |
+
+The files are stored in parts in [Minion-Rush-Revival-Builds](https://github.com/dotxr/Minion-Rush-Revival-Builds); the site downloads the parts, checks them and puts the APK or IPA back together in your browser.
 
 More versions are on the way. Each version installs as its own app, so you can have several at once.
 
